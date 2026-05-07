@@ -1,0 +1,128 @@
+{
+  "projects": [],
+  "tasks": [
+    {
+      "id": "t1",
+      "title": "Design onboarding flow",
+      "project": "Mobile App Redesign",
+      "assignee": "Alex",
+      "priority": "high",
+      "status": "in-progress",
+      "dueDate": "2026-05-12"
+    },
+    {
+      "id": "t2",
+      "title": "Optimize embedding model",
+      "project": "AI Engine v2",
+      "assignee": "Priya",
+      "priority": "high",
+      "status": "pending",
+      "dueDate": "2026-05-20"
+    }
+  ],
+  "members": [
+    {
+      "id": "m1778144525329",
+      "name": "Boya Teja",
+      "email": "boyateja0089@gmail.com",
+      "role": "member",
+      "tasksAssigned": 0,
+      "verified": true
+    }
+  ],
+  "notifications": [
+    {
+      "id": "n1778147281821",
+      "title": "Member verified",
+      "message": "boyateja0089@gmail.com is now a verified member.",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778147257284",
+      "title": "Member verification code",
+      "message": "Verification code for boyateja0089@gmail.com: 117446 (simulated email)",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778145800465",
+      "title": "Admin verification code",
+      "message": "Verification code for bunnyboya939@gmail.com: 634135 (simulated email)",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778145794182",
+      "title": "Admin verification code",
+      "message": "Verification code for bunnyboya939@gmail.com: 619057 (simulated email)",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778145402444",
+      "title": "Admin verification code",
+      "message": "Verification code for bunnyboya939@gmail.com: 237076 (simulated email)",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778145074860",
+      "title": "Member verification code",
+      "message": "Verification code for boyateja0089@gmail.com: 483599 (simulated email)",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778145029309",
+      "title": "Member verification code",
+      "message": "Verification code for boyateja0089@gmail.com: 406854 (simulated email)",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778144525329",
+      "title": "Team update",
+      "message": "Boya Teja joined the workspace.",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778144501462",
+      "title": "Project deleted",
+      "message": "A project was removed by admin.",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1778144500233",
+      "title": "Project deleted",
+      "message": "A project was removed by admin.",
+      "time": "just now",
+      "type": "team"
+    },
+    {
+      "id": "n1",
+      "title": "Task assigned",
+      "message": "You have a new task: Design onboarding flow",
+      "time": "2m ago",
+      "type": "task"
+    },
+    {
+      "id": "n2",
+      "title": "Deadline approaching",
+      "message": "Optimize embedding model due in 3 days",
+      "time": "1h ago",
+      "type": "deadline"
+    }
+  ],
+  "verifiedAdmins": [],
+  "adminVerifications": [
+    {
+      "email": "bunnyboya939@gmail.com",
+      "code": "634135",
+      "createdAt": 1778145800465
+    }
+  ],
+  "memberVerifications": []
+}
